@@ -12,5 +12,12 @@
       "age": 42,
       "avatar": "https://www.fillmurray.com/400/300"
     }
+  ],
+  "hobbies": [
+    "Playing Football",
+    "Playing Rugby",
+    "Watching Movies",
+    "Gaming",
+    "Skying"
   ]
 }
