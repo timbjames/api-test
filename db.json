@@ -14,10 +14,21 @@
     }
   ],
   "hobbies": [
-    "Playing Football",
-    "Playing Rugby",
-    "Watching Movies",
-    "Gaming",
-    "Skying"
+    {
+      "id": 1,
+      "name": "Playing Football"
+    },
+    {
+      "id": 2,
+      "name": "Playing Rugby"
+    },
+    {
+      "id": 3,
+      "name": "Watching Movies"
+    },
+    {
+      "id": 4,
+      "name": "Gaming"
+    }
   ]
 }
