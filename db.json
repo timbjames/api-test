@@ -1,20 +1,16 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Tim",
       "age": 40,
       "avatar": "https://www.fillmurray.com/460/300"
     },
     {
+      "id": 2,
       "name": "Tom",
       "age": 42,
       "avatar": "https://www.fillmurray.com/400/300"
     }
-  ],
-  "hobbies": [
-    "Playing Football",
-    "Playing Rugby",
-    "Gaming",
-    "Watching Movies"
   ]
 }
